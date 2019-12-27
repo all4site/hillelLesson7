@@ -9,8 +9,8 @@
 </head>
 <body>
 <?php
-const MINLENGTH = 2;
-const MAXLENGTH = 10;
+const MINLENGTH = -100;
+const MAXLENGTH = 100;
 const SYMBOL = ['+' , '-' , '/' , '*' ];
 
 //Проверяется через frontend
